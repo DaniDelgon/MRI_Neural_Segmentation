@@ -8,3 +8,5 @@ In the notebook as well, we are going to train 3 models with similar network arc
 - Model 2 -> In this model we are going to train our architecture with the dataset shuffled, so the mri images are shuffled in a uniform manner, and then we will split the images for training, validation and test subsets. Our main regularization method is dropout, and the loss we are going to use is a custom loss named Jaccard, which is used in statistics.
 
 - Model 3 -> In this model we are going to train our architecture with the dataset shuffled, so the mri images are shuffled, in the same way as the previous case. Our main regularization method is the data augmentation we are going to apply to our training image dataset, and the loss we are going to use is a custom loss named Jaccard, which is the same as the used in the previous case.
+
+![imagen](https://user-images.githubusercontent.com/18196870/201541507-7f089202-2624-4977-a802-8cd428aea1f5.png)
